@@ -1,0 +1,21 @@
+Ogrencinin Adi: Hayrettin Yildirim
+Ogrencinin Bolumu: Elektrik Elektronik Muhendisligi
+Ogrencinin Ortalamasi: 50.00
+Ders Adi: BP, Kredi: 4, Puan: 40
+Ders Adi: Sistemler, Kredi: 3, Puan: 50
+Ders Adi: Elektrik, Kredi: 4, Puan: 60
+
+Ogrencinin Adi: Muhuttin Kaya
+Ogrencinin Bolumu: Bilgisayar Muhendisligi
+Ogrencinin Ortalamasi: 45.00
+Ders Adi: BP, Kredi: 6, Puan: 55
+Ders Adi: Elektrik, Kredi: 4, Puan: 60
+Ders Adi: Sistemler, Kredi: 3, Puan: 55
+
+Ogrencinin Adi: Kemallettin  Gokten
+Ogrencinin Bolumu: Insaat Muhendisligi
+Ogrencinin Ortalamasi: 46.00
+Ders Adi: Sistemler, Kredi: 3, Puan: 55
+Ders Adi: BP, Kredi: 4, Puan: 40
+Ders Adi: Elektrik, Kredi: 4, Puan: 60
+

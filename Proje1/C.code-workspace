@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"DegiskenAdresiyleIslem.C": "cpp",
+			"stdio.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
